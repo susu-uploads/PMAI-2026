@@ -1,5 +1,3 @@
-# Управление проектами в сфере искусственного интеллекта
+# 2026/2027 Управление проектами в сфере искусственного интеллекта (очная)
 
-Project Management in Artificial Intelligence
-
-[PMAI-2026 — описание курса и материалы](COURSE.md).
+## Project Management in Artificial Intelligence
